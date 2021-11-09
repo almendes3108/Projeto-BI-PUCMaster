@@ -1,0 +1,18 @@
+Ordem de carga transacional
+
+
+- customer        1 OK
+
+- sellers         2 OK
+
+- products        3 OK
+
+- orders          4 OK
+
+- order_itens     5 OK
+
+- order_payments  6 OK
+
+- order_reviews   7 OK
+
+ 
